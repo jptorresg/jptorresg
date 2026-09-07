@@ -191,6 +191,8 @@ Arcade typing game developed in a **5-hour Game Jam** as part of a three-person 
 * Custom audio using the **Web Audio API**
 * Selected as the **winning project** of the 2nd UNIS Game Jam
 
+---
+
 ## Experience
 
 ### **Software Engineering Intern — Hoosier Manufacturing**
