@@ -60,7 +60,7 @@ I’m currently focused on strengthening my **backend and full-stack development
 
 ## Featured Projects
 
-A selection of academic, freelance, and personal projects focused on backend systems, web applications, and software architecture.
+A selection of academic, freelance, and personal projects focused on software development, web applications, backend systems, and technical problem-solving.
 
 ---
 
