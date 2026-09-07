@@ -160,6 +160,37 @@ Web application created for an architecture studio to display projects through a
 
 ---
 
+### [Office Panic](https://github.com/jptorresg/Game-Jam-UNIS)
+
+**Winner — 2nd UNIS Game Jam** 🏆
+
+Arcade typing game developed in a **5-hour Game Jam** as part of a three-person team. Set in an office environment, the game challenges players to type words to repel incoming folders while managing distractions and maintaining productivity throughout the workday.
+
+**Built with**
+
+* **HTML5**
+* **CSS3**
+* **JavaScript (ES Modules)**
+* **Vite**
+* **Web Audio API**
+* **localStorage**
+
+**My contribution**
+
+* Designed the game's **general concept, mechanics, and visual direction**
+* Created and integrated **visual assets** for the game
+* Collaborated with the team on gameplay design and rapid iteration under the Game Jam's time constraints
+
+**Highlights**
+
+* Complete playable game developed from scratch in **5 hours**
+* Typing-based arcade gameplay with progressive difficulty
+* Combo, score, and productivity systems
+* Office distractions and folder modifiers
+* Pixel-art visual style with CSS animations
+* Custom audio using the **Web Audio API**
+* Selected as the **winning project** of the 2nd UNIS Game Jam
+
 ## Experience
 
 ### **Software Engineering Intern — Hoosier Manufacturing**
